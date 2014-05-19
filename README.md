@@ -1,4 +1,4 @@
-cloudfoundry-whatismyip
+whatismyip
 =======================
 
 sample app for cloudfoundry
