@@ -1,0 +1,7 @@
+applications:
+- name: whatismyip
+  memory: 512M
+  instances: 1
+  host: spring-music-${random-word}
+  domain: cfapps.io
+  path: target/whatismyip-1.0.0-BUILD-SNAPSHOT.war
