@@ -9,6 +9,6 @@ To get started:
 
 1. Clone the repository.
 
-2. Execute 'mvn package'.
+2. <code> mvn package </code>
 
-3. cf push
+3. <code> cf push </code>
